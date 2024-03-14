@@ -1,5 +1,5 @@
 # Auction Bidding System
-
+## [Analysis Document](Analysis.md)
 ## Overview
 
 The Auction Bidding system is designed to facilitate online auctions, allowing users to place bids on items. Built with Nest.js and TypeORM, it ensures efficient and scalable server-side application development, capable of handling multiple auctions and real-time bid tracking.
@@ -163,4 +163,3 @@ Get auction result
 
 curl --location 'http://localhost:3100/auction/results'
 
-## [Analysis Document](Analysis.md)
